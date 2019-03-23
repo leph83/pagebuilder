@@ -2,7 +2,9 @@
 	"block": [
 		{
 			"title": "Titel",
-			"subtitle": "Untertitel"
+			"subtitle": "Untertitel",
+			"style": "block--style-1",
+			"image": "https://cdn.jsdelivr.net/gh/leph83/pagebuilder@2d3fc03aa28b2fcf66d66bd51baa2da7d50e89de/images/logo-uh.png"
 		}
 	]
 }
