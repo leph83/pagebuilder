@@ -1,8 +1,6 @@
 {
 	"block": [
 		{
-			"title": "Titel",
-			"subtitle": "Untertitel",
 			"style": "block--style-1",
 			"image": "https://cdn.jsdelivr.net/gh/leph83/pagebuilder@c2d920dba08b0154ae00f3f964cb93f274ff4f65/images/sticker_1.png",
 			"image_tablett": "https://cdn.jsdelivr.net/gh/leph83/pagebuilder@7b513f59e3d59e5445b5bf7b8851cad40ae23487/images/sticker_2.png",
