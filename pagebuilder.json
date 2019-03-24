@@ -7,6 +7,10 @@
 			"image_mobile": "https://cdn.jsdelivr.net/gh/leph83/pagebuilder@bc90d940ab96fcaffc5aabd798e26ef9d1358c15/images/sticker_3.png",
 			"title": "Title",
 			"subtitle": "Subtitle"
+		},
+		{
+			"style": "block--style-1",
+			"image": "https://cdn.jsdelivr.net/gh/leph83/pagebuilder@40ba22e95c5dfafb7c27cdd840f4be5a9cd15db8/images/ummahuesla.png"
 		}
 	]
 }
