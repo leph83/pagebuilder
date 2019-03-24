@@ -1,16 +1,16 @@
 {
 	"block": [
 		{
+			"style": "block--style-1",
+			"image": "https://cdn.jsdelivr.net/gh/leph83/pagebuilder@40ba22e95c5dfafb7c27cdd840f4be5a9cd15db8/images/ummahuesla.png"
+		},
+		{
 			"style": "block--style-2",
 			"image": "https://cdn.jsdelivr.net/gh/leph83/pagebuilder@c2d920dba08b0154ae00f3f964cb93f274ff4f65/images/sticker_1.png",
 			"image_tablett": "https://cdn.jsdelivr.net/gh/leph83/pagebuilder@7b513f59e3d59e5445b5bf7b8851cad40ae23487/images/sticker_2.png",
 			"image_mobile": "https://cdn.jsdelivr.net/gh/leph83/pagebuilder@bc90d940ab96fcaffc5aabd798e26ef9d1358c15/images/sticker_3.png",
 			"title": "Title",
 			"subtitle": "Subtitle"
-		},
-		{
-			"style": "block--style-1",
-			"image": "https://cdn.jsdelivr.net/gh/leph83/pagebuilder@40ba22e95c5dfafb7c27cdd840f4be5a9cd15db8/images/ummahuesla.png"
 		}
 	]
 }
