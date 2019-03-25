@@ -12,5 +12,23 @@
 			"title": "Title",
 			"subtitle": "Subtitle"
 		}
+	],
+	"section": [
+		{
+			"inner": [
+				"\n            Title\n        ",
+				"Title 2"
+			]
+		},
+		{
+			"inner": [
+				"Next Section"
+			]
+		},
+		{
+			"inner": [
+				"Third Section"
+			]
+		}
 	]
 }
