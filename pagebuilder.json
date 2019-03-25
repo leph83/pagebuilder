@@ -2,7 +2,7 @@
 	"block": [
 		{
 			"style": "block--style-1",
-			"fontsize": "H1",
+			"fontsize": "H2",
 			"title": "Titel",
 			"subtitle": "Untertitel"
 		}
