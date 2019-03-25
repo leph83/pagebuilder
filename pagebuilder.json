@@ -1,5 +1,12 @@
 {
-	"block": [],
+	"block": [
+		{
+			"style": "block--style-1",
+			"fontsize": "H1",
+			"title": "Titel",
+			"subtitle": "Untertitel"
+		}
+	],
 	"section": [
 		{
 			"inner": [
