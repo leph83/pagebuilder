@@ -9,6 +9,14 @@
 			"links": {
 				"link": "#"
 			}
+		},
+		{
+			"style": "style_1",
+			"image": "https://picsum.photos/200/301",
+			"title": "Another Block",
+			"subtitle": "Subtitle",
+			"description": "Description",
+			"links": {}
 		}
 	],
 	"section": [
