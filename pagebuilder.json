@@ -19,11 +19,12 @@
 			}
 		},
 		{
-			"style": "style_1",
+			"style": "style_2",
 			"title": "Third Block",
 			"subtitle": "Just a block",
 			"description": "A description",
-			"links": {}
+			"links": {},
+			"image": "https://picsum.photos/200/299"
 		}
 	],
 	"section": [
