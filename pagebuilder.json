@@ -1,6 +1,14 @@
 {
 	"block": [
 		{
+			"style": "style_1",
+			"image": "https://picsum.photos/200/301",
+			"title": "Another Block",
+			"subtitle": "Subtitle",
+			"description": "Description",
+			"links": {}
+		},
+		{
 			"style": "style_2",
 			"fontsize": "h3",
 			"title": "hello world",
@@ -12,10 +20,9 @@
 		},
 		{
 			"style": "style_1",
-			"image": "https://picsum.photos/200/301",
-			"title": "Another Block",
-			"subtitle": "Subtitle",
-			"description": "Description",
+			"title": "Third Block",
+			"subtitle": "Just a block",
+			"description": "A description",
 			"links": {}
 		}
 	],
