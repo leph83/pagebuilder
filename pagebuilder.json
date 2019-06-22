@@ -1,7 +1,7 @@
 {
 	"block": [
 		{
-			"style": "block--style-1",
+			"style": "style_2",
 			"fontsize": "h3",
 			"title": "hello world",
 			"subtitle": "Something",
